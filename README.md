@@ -2,7 +2,7 @@
 List of cool things in NovariaOS ecosystem.
 
 ## Programming languages
-- [Perano-Lang](https://github.com/noxzion/perano-lang): a language with a syntax similar to Rust.
+- [Nest](https://github.com/novariaos/nest-lang): a procedural programming language that compiles to NVM bytecode. Nest is designed to be simple, explicit, and practical.
 - [Nvma](https://github.com/novariaos/nvma): nvm bytecode assembler
 
 ## Tools
